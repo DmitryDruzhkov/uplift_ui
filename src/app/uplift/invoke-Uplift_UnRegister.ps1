@@ -1,0 +1,1 @@
+Unregister-PSRepository -Name "subpointsolutions-staging"

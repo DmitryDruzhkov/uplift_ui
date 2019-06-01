@@ -1,0 +1,1 @@
+invoke-uplift resource list
