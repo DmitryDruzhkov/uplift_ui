@@ -195,7 +195,10 @@ export class Distributivs extends React.Component<any, any> {
                         {listItems}
                     </div>
                     :
-                    <Spinner color="primary" />
+                    <div className='resourses-spinner'>
+                        <Spinner color="primary" />
+                    </div>
+
                 }
                 <div className='resourses-bottom'>
                     <div className='resourses-bottom-left'>
